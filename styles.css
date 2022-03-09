@@ -1,0 +1,53 @@
+.container {
+  position: relative;
+  width: 90%;
+  height: 80vh;
+  margin: auto;
+  text-align: center;
+  border: 2px solid #f9ffd0;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #f9ffd0;
+}
+
+p {
+  font-size: 2rem;
+  color: #f9ffd0;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.column1 {
+  height: 80vh;
+  width: 50px;
+  background-color: #f9ffd0;
+  position: absolute;
+  margin: 0 20px;
+}
+
